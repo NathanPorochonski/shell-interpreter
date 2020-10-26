@@ -1,7 +1,9 @@
 Project Description:
 	This program is a simple shell that prompts an input from user and utilizes internal commands such as cd, path, and quit. The user builds a path environment and from there can attempt to run a provided executable file name if it is found in the path environment.
+	
 Compiling Instructions:
 	make shell
+	
 Sample Test Run:
 	$ path + /bin/
 
